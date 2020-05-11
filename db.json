@@ -10,5 +10,12 @@
       "name": "Sabonete Feio",
       "value": 16
     }
+  ],
+  "listas": [
+    {
+    "id": 1,
+      "name": "Favoritos",
+      "products": []
+    }
   ]
 }
