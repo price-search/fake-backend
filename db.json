@@ -13,9 +13,20 @@
   ],
   "listas": [
     {
-    "id": 1,
+      "id": 1,
       "name": "Favoritos",
-      "products": []
+      "products": [
+        {
+          "id": 1,
+          "name": "Sabonete Maneiro",
+          "value": 12
+        },
+        {
+          "id": 2,
+          "name": "Sabonete Feio",
+          "value": 16
+        }
+      ]
     }
   ]
 }
