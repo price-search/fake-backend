@@ -3,12 +3,21 @@
     {
       "id": 1,
       "name": "Sabonete Maneiro",
-      "value": 12
+      "offer": [
+        {
+          "valor": 5,
+          "estabelecimentoid": 1
+        },
+        {
+          "valor": 6,
+          "estabelecimentoid": 2
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Sabonete Feio",
-      "value": 16
+      "offer": 16
     }
   ],
   "listas": [
@@ -27,6 +36,16 @@
           "value": 16
         }
       ]
+    }
+  ],
+  "estabelecimentos":[
+    {
+      "id": 1,
+      "nome": "Unissul"
+    },
+    {
+      "id": 2,
+      "nome": "Alvorada"
     }
   ]
 }
