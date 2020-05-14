@@ -67,6 +67,31 @@
           "value": 16
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Teste",
+      "products": [
+        {
+          "id": 1,
+          "name": "Sabonete Maneiro",
+          "offer": 
+              {
+                "valor": 5,
+                "estabelecimentoid": 1
+              }
+           
+        },
+        {
+          "id": 2,
+          "name": "Sabonete Feio",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Outros",
     }
   ],
   "estabelecimentos":[
