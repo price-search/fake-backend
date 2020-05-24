@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Sabonete Maneiro",
+      "name": "Sabonete",
       "url": "https://avongroup.vteximg.com.br/arquivos/ids/161181-470-470/Sabonete_de_Limpeza_Clearskin__65.jpg?v=637146020974570000",
       "offer": [
         {
@@ -17,20 +17,20 @@
     },
     {
       "id": 2,
-      "name": "Sabonete Feio",
-      "url": "https://drogariavenancio.vteximg.com.br/arquivos/ids/707853-1000-1000/14258_2.jpg?v=637141754263100000",
+      "name": "Detergente Ype",
+      "url": "https://a-static.mlcdn.com.br/618x463/detergente-liquido-ype-coco-500ml/costaatacado/90066/b1bfb8e6297b9b05936ceed15446aa29.jpg",
       "offer": 16
     },
     {
       "id": 3,
-      "name": "Sabonete Feio",
-      "url": "https://drogariavenancio.vteximg.com.br/arquivos/ids/707853-1000-1000/14258_2.jpg?v=637141754263100000",
+      "name": "Esponja Multiuso Esfrebom",
+      "url": "https://castronaves.vteximg.com.br/arquivos/ids/165699-1000-1000/94987_1.jpg?v=636620794433300000",
       "offer": 16
     },
     {
       "id": 4,
-      "name": "Sabonete Feio",
-      "url": "https://drogariavenancio.vteximg.com.br/arquivos/ids/707853-1000-1000/14258_2.jpg?v=637141754263100000",
+      "name": "Fogão Brastemp 4 Bocas",
+      "url": "https://www.pontofrio-imagens.com.br/Eletrodomesticos/Fogoes/Piso4Bocas/4036216/94586588/fogao-brastemp-4-bocas-bfo4nar-clean-inox-bivolt-4036216.jpg",
       "offer": 16
     },
     {
